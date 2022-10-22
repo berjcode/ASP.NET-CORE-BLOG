@@ -1,0 +1,12 @@
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

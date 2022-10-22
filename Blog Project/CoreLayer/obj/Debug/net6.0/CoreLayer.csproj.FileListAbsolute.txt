@@ -1,0 +1,12 @@
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

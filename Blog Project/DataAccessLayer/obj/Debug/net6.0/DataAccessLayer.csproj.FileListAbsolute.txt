@@ -1,0 +1,17 @@
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
