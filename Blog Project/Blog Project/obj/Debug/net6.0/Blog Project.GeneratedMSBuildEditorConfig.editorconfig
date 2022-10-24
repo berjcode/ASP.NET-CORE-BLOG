@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/CategoryControllercs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlDb250cm9sbGVyY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -23,12 +31,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/BottomPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJvdHRvbVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/MainPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1haW5QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/_ViewImports.cshtml]
@@ -38,7 +54,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/abdbl/Documents/GitHub/ASP.NET-CORE-BLOG/Blog Project/Blog Project/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-szbos7fdzz
