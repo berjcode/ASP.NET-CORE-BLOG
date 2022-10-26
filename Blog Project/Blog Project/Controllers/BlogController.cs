@@ -12,5 +12,11 @@ namespace Blog_Project.Controllers
             var values = _bm.GetBlogListWithCategory();
             return View(values);
         }
+
+        public ActionResult BlogReadAll(int id)
+        {
+            var values = _bm.GetBlogByID(id);
+            return View(values);
+        }
     }
 }
