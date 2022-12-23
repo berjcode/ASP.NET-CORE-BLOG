@@ -268,3 +268,8 @@ C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\bin\
 C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\obj\Debug\net6.0\staticwebassets\msbuild.Blog Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Blog Project.props
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blog Project.props
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blog Project.props
+C:\Users\abdbl\Documents\GitHub\ASP.NET-CORE-BLOG\Blog Project\Blog Project\obj\Debug\net6.0\staticwebassets.pack.json
