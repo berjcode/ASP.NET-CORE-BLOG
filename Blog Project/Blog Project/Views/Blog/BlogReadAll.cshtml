@@ -1,4 +1,6 @@
 ﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+
+
 @{
     ViewData["Title"] = "BlogDetails";
     Layout = "~/Views/Shared/UserLayout.cshtml";
@@ -6,7 +8,7 @@
 
 
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="tr">
 
 
 <body>
@@ -57,10 +59,17 @@
 						<a href="/Blog/Index/" class="btn btn-primary read-m">Blog Sayfasına Dön</a>
 					</div>
 					}
-
-					@await Component.InvokeAsync("CommentList")
 				
-					@await Html.PartialAsync("~/Views/Comment/PartialAddComment.cshtml")
+
+
+					@await Component.InvokeAsync("CommentListByBlog")
+
+					
+					@*@await Html.PartialAsync("~/Views/Comment/PartialAddComment.cshtml")*@
+					@*@await Html.PartialAsync("~/Views/Comment/PartialCommentList.cshtml")*@
+					@*@await Html.PartialAsync("~/Views/Comment/PartialAddComment.cshtml")*@
+
+
 				</div>
 
 				<!--//left-->

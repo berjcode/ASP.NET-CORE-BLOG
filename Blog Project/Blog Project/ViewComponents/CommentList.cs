@@ -11,7 +11,7 @@ namespace Blog_Project.ViewComponents
 	{
 		public IViewComponentResult Invoke()
 		{
-			var commentValues = new List<UserComment>()
+			var commentValues = new List<UserComment>
 			{
 				new UserComment
 				{
@@ -27,7 +27,7 @@ namespace Blog_Project.ViewComponents
 			};
 
 			
-			return View();	
+			return View(commentValues);	
 		}
 	}
 }

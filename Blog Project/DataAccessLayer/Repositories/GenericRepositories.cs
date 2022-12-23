@@ -40,6 +40,7 @@ namespace DataAccessLayer.Repositories
             c.SaveChanges();
         }
 
+
         public List<T> GetListAll(Expression<Func<T, bool>> filter)
         {
             //Filter'dan gelen değeri listele
